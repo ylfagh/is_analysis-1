@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block title %}学生列表{% endblock %}
+
+{% block page_content %}
+    <table class="table table-bordered">
+    <tr>
+        <th>学号</th>
+        <th>姓名</th>
+        <th>班级</th>
+        <th>GitHub用户</th>
+        <th>修改日期</th>
+        <th>操作</th>
+    </tr>
+        {% for i in students %}
+            <tr>
+                <td>{{ i[0] }}</td>
+                <td>{{ i[1] }}</td>
+                <td>{{ i[2] }}</td>
+                {% if i[3] %}
+                    <td><a href="https://github.com/{{ i[3] }}/is_analysis" target="_blank" >{{ i[3] }}</td>
+                {% else %}
+                    <td></td>
+                {% endif %}
+                {% if i[4] %}
+                    <td>{{ i[4] }}</a></td>
+                {% else %}
+                    <td></td>
+                {% endif %}
+                <td><a href="/update_github_user/{{ i[0] }}">修改</a></td>
+            </tr>
+    {% endfor %}
+    </table>
+{% endblock %}
