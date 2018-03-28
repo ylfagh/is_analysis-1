@@ -28,7 +28,7 @@ def get_github_user():
 
 # 普通函数,返回学号对应的学生姓名和github账号
 def get_one_user(stu_id):
-    conn = cx_Oracle.connect('study','Zwd525414', '202.115.82.8:1521/pdborcl')
+    conn = cx_Oracle.connect('study','123', '202.115.82.8:1521/pdborcl')
     cur = conn.cursor()
     sql = "SELECT name,github_username FROM is_analysis_studyinfo where id=:id"
     res = cur.execute(sql,{"id":stu_id})
@@ -44,7 +44,7 @@ def get_one_user(stu_id):
 def update_github_user(stu_id):
     if request.method == "POST": #如果是POST方式,表示在修改页面按下了"修改"按钮.
         username = request.form.get('GitHubUserName')
-        conn = cx_Oracle.connect('study', 'Zwd525414', '202.115.82.8:1521/pdborcl')
+        conn = cx_Oracle.connect('study', '123', '202.115.82.8:1521/pdborcl')
         cur = conn.cursor()
         username=username.strip()
         if username != '':
