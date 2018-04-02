@@ -1,6 +1,6 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
-> 实验1 业务流程建模[返回](./README.md)
+> 实验1 业务流程建模 | [返回](./README.md)
 
 - 重新绘制Page107图6.1: 考试及成绩管理流程 
 - 重新绘制Page108图6.2: 客户维修服务流程
