@@ -1,7 +1,7 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-> 实验2 用例建模 | [返回](./README.md)
+## > 实验2 用例建模 | [返回](./README.md)
 
 - 仔细阅读并理解:第7章用例建模
 - 理解书中第7章的<b>图书管理系统的用例</b>
