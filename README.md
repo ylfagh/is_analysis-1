@@ -18,6 +18,11 @@
 - IDEA插件: markdown 和 plantuml
 - 单独安装: git 和 graphviz
 
+## 实验
+
+### [实验1](./test1.md)
+### [实验2](./test2.md)
+
 > 实验1 业务流程建模
 
 - 重新绘制Page107图6.1: 考试及成绩管理流程 
