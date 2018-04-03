@@ -3,31 +3,33 @@
 |:-------:|:-------------: | :----------:|:---:|
 |12345678|软件(本)15-4|赵卫东|![flow1](../myself.jpg)|
 
-## 图书管理系统的用户关系图
+## 图书管理系统的用例关系图
 
 **用例图PlantUML源码如下：**
 
-``` flow1
+``` usecase
 @startuml
-start
-:Hello world;
-:This is on defined on
-several **lines**;
-stop
+
+User -> (Start)
+User --> (Use the application) : A small label
+
+:Main Admin: ---> (Use the application) : This is\nyet another\nlabel
+
 @enduml
 ```
 
 **用户例图如下：**
 参见图7.6
-![flow1](flow1.jpg)
+![usecase](usecase.png)
 
 **参与者说明：**
 
 ### 图书管理员：
-主要职责是：
+主要职责是：***
 ### 读者
 主要职责是：****
-...
+### 其他类型用户
+主要职责是：****
 
 ## 用例规约表
 

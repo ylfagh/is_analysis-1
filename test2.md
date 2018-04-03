@@ -23,7 +23,7 @@
 README.md
 usecase3.md
 usecase5.md
-usecase.jpg
+usecase.png
 usecase1_flow.jpg
 usecase3_flow.jpg
 ...
