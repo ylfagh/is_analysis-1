@@ -19,7 +19,6 @@ User --> (Use the application) : A small label
 ```
 
 **用户例图如下：**
-参见图7.6
 ![usecase](usecase.png)
 
 **参与者说明：**
