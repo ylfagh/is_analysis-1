@@ -49,7 +49,7 @@ User --> (Use the application) : A small label
 
 参见：表7.5
 
-** 购入图书流程图源码如下： **
+**购入图书流程图源码如下：**
 ``` uc1_flow
 @startuml
 start
@@ -60,7 +60,7 @@ stop
 @enduml
 ```
 
-** 购入图书流程图源码如下： **
+**购入图书流程图源码如下：**
 
 ![uc1_flow](usecase1_flow.jpg)
 
