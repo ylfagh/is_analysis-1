@@ -45,10 +45,25 @@ User --> (Use the application) : A small label
 
 参见：表7.5
 
-###     3.2 “借出图书”用例
+###     3.2 “购入图书”用例
 
 参见：表7.5
 
-###     3.3 “借出图书”用例
+** 购入图书流程图源码如下： **
+``` uc1_flow
+@startuml
+start
+:Hello world;
+:This is on defined on
+several **lines**;
+stop
+@enduml
+```
+
+** 购入图书流程图源码如下： **
+
+![uc1_flow](usecase1_flow.jpg)
+
+###     3.3 “***”用例
 
 参见：表7.5
