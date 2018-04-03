@@ -20,6 +20,7 @@ User --> (Use the application) : A small label
 
 
 ### 2. 用例图如下：
+
 参见图7.6
 
 ![usecase](usecase.png)
@@ -39,10 +40,13 @@ User --> (Use the application) : A small label
 ##     3. 用例规约表
 
 ###     1. “借出图书”用例
+
 参见：表7.5
 
 ###     2. “借出图书”用例
+
 参见：表7.5
 
 ###     3. “借出图书”用例
+
 参见：表7.5
