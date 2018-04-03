@@ -9,7 +9,7 @@
 
 主讲：成都大学信息科学与工程学院 赵卫东
 
-## GitHUB用户名
+## 老师编写的课程教学平台
 - 查看与修改你的GitHUB用户名：http://202.115.82.8:1522
 - 源码参见: https://github.com/zwdbox/is_analysis/tree/master/项目/学生录入账号
 
@@ -22,3 +22,9 @@
 
 ### [实验1](./test1.md)
 ### [实验2](./test2.md)
+
+<b>参考资料</b>
+
+- 绘制方法参考[PlantUML标准](http://plantuml.com)
+- Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
+- 老师的教学资源：https://github.com/zwdbox/is_analysis
