@@ -1,7 +1,7 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-# 系统分析与设计课程管理系统
+# 《信息系统分析与设计》课程管理系统
 
 ## 首页：
 ![](p1.jpg)
