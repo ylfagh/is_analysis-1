@@ -14,6 +14,7 @@
 - 源码参见: https://github.com/zwdbox/is_analysis/tree/master/项目/学生操作
 -  注意，查询个人成绩界面中不要出现下图中的“错误地址”，否则会没有成绩。
   ![](p3.jpg)
+  
 ## 搭建文档编写环境：
 - 编辑器: IntelliJ IDEA
 - IDEA插件: markdown 和 plantuml
