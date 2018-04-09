@@ -11,6 +11,7 @@
 
 <b>注意事项</b>
 - 类划分的颗粒度要适中，不能太大，也不能太小。
+- 可以将相同作用的类放在类图的包（package）中
 - 类图要尽量体现类与类之间的关系：依赖关系(Dependency)，关联关系(Association)，聚合关系(Aggregation)，组合关系(Composition)，继承关系(Inheritance)。参见：
     * https://blog.csdn.net/a19881029/article/details/8957441
     * http://www.uml.org.cn/oobject/201211231.asp
