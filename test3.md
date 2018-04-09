@@ -11,7 +11,9 @@
 
 <b>注意事项</b>
 - 类划分的颗粒度要适中，不能太大，也不能太小。
-- 类图要尽量体现类与类之间的关系：依赖关系(Dependency)，关联关系(Association)，聚合关系(Aggregation)，组合关系(Composition)，继承关系(Inheritance)。参见：https://blog.csdn.net/a19881029/article/details/8957441
+- 类图要尽量体现类与类之间的关系：依赖关系(Dependency)，关联关系(Association)，聚合关系(Aggregation)，组合关系(Composition)，继承关系(Inheritance)。参见：
+    * https://blog.csdn.net/a19881029/article/details/8957441
+    * http://www.uml.org.cn/oobject/201211231.asp
 - 类图要尽量体现出关系的多重性：如。
     * 1:        表示1个
     * 0..*：    表示任意多个（ ≥0）（*可以换成n）
@@ -19,8 +21,8 @@
     * 1..*：    表示1个或多个（≥1）
     * 0..1：    表示0个或1个
     * 5..11：   表示5-11个
-    * 1，3，8： 表示个1或3个或8个
-    * 0，3..8： 表示0个或3-8个
+    * 1,3,8： 表示个1或3个或8个
+    * 0,3..8： 表示0个或3-8个
 
 <b>实验提交</b>
 
