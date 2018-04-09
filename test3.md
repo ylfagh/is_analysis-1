@@ -10,8 +10,9 @@
 - 整个文档要汇总到REMADE.md文本文件中进行说明，说明文件用Markdown格式编写。
 
 <b>注意事项</b>
-- 用例划分的颗粒度要适中，不能太大，也不能太小。
-- 用例关系图要尽量体现对象之间的关系：Extension（扩展），Composition（组合），Aggregation（聚集）。
+- 类划分的颗粒度要适中，不能太大，也不能太小。
+- 类图要尽量体现对象之间的关系：Extension（扩展），Composition（组合），Aggregation（聚集）。
+- 类图要尽量体现对象之间的数量关系：一对一，一对多，多对多。
 
 <b>实验提交</b>
 
@@ -26,6 +27,7 @@ object1.png
 object2.png
 ...
 ```
+
 - 本次实验需要写到纸质实验报告中。
 
 - 你的实验内容提交成功后，可以直接访问https://github.com/<b>zhang</b>/is_analysis/tree/master/test3
