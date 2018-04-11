@@ -22,11 +22,34 @@
 
 ## 实验
 
-### [实验1：业务流程建模](./test1.md)
-### [实验2：图书管理系统用例建模](./test2.md)
-### [实验3：图书管理系统领域对象建模](./test3.md)
-<b>参考资料</b>
+- ### [实验1：业务流程建模](./test1.md)
+- ### [实验2：图书管理系统用例建模](./test2.md)
+    - 实验2批改情况说明（大家都容易出现的问题有）：
+    1. << include >>和<< extend >>写成了include和extend，没有<<>>符号
+    2. 滥用<< extend >>。extend只是用于特殊情况，异常情况，不能用于正常情况的用例。
+    比如“书目维护”用例中的“增加”，“修改”，“删除”用例，
+    不应该是<< extend >>关系，应该是<< include >>关系或者是<< use >>关系。
+    - 部分比较优秀(95分以上)的实验2如下：
+        - 杨钉权	软件(本)15-1	https://github.com/sinmem/is_analysis/tree/master/test2
+        - 周志强	软件(本)15-1	https://github.com/aGreySky/is_analysis/tree/master/test2
+        - 杨楠	软件(本)15-2	https://github.com/abecd/is_analysis/tree/master/test2
+        - 杜芸彦	软件(本)15-3	https://github.com/d123456yy/is_analysis/tree/master/test2
+        - 邱小霞	软件(本)15-3	https://github.com/q1314520xx/is_analysis/tree/master/test2
+        - 孙守利	软件(本)15-3	https://github.com/shoulisun/is_analysis/tree/master/test2
+        - 余行	软件(本)15-3	https://github.com/yuhang456/is_analysis/tree/master/test2
+        - 张文	软件(本)15-3	https://github.com/Anntly/is_analysis/tree/master/test2
+        - 陈惠翔	软件(本)15-4	https://github.com/JasonChenhx/is_analysis/tree/master/test2
+        - 蒋春林	软件(本)15-4	https://github.com/FateBerserker/is_analysis/tree/master/test2
+        - 梅恩	软件(本)15-4	https://github.com/228957643/is_analysis/tree/master/test2
+        - 吴靖	软件(本)15-4	https://github.com/ikowalski/is_analysis/tree/master/test2
+        - 张启恒	软件(本)15-4	https://github.com/zhangqiheng/is_analysis/tree/master/test2
+- ### [实验3：图书管理系统领域对象建模](./test3.md)
 
+## 抄袭说明
+- 有抄袭嫌疑的实验，老师批改的成绩都比较低。原作者有可能是抄袭的受害者，如果出现这种情况，请告知老师修改成绩。
+- 自己独立完成的实验，分数不会低。
+
+## 参考资料
 - 绘制方法参考[PlantUML标准](http://plantuml.com)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
