@@ -23,26 +23,37 @@
 ## 实验
 
 - ### [实验1：业务流程建模](./test1.md)
+    - 实验1批改情况说明（大家都容易出现的问题有）：
+        1. 没有按角色分组
+        2. 没有文字说明
+    - 部分比较优秀(95分以上)的实验1如下：    
+        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test1)
+        - [姚启迪	软件(本)15-1](https://github.com/Konoha-Y/is_analysis/tree/master/test1)
+        - [曾玉龙	软件(本)15-2](https://github.com/Zengyulong/is_analysis/tree/master/test1)
+        - [陈惠翔	软件(本)15-4](https://github.com/JasonChenhx/is_analysis/tree/master/test1)
+        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test1)
+        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test1)
+        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test1)
 - ### [实验2：图书管理系统用例建模](./test2.md)
     - 实验2批改情况说明（大家都容易出现的问题有）：
-    1. << include >>和<< extend >>写成了include和extend，没有<<>>符号
-    2. 滥用<< extend >>。extend只是用于特殊情况，异常情况，不能用于正常情况的用例。
+        1. << include >>和<< extend >>写成了include和extend，没有<<>>符号    
+        2. 滥用<< extend >>。extend只是用于特殊情况，异常情况，不能用于正常情况的用例。
     比如“书目维护”用例中的“增加”，“修改”，“删除”用例，
     不应该是<< extend >>关系，应该是<< include >>关系或者是<< use >>关系。
     - 部分比较优秀(95分以上)的实验2如下：
-        - 杨钉权	软件(本)15-1	https://github.com/sinmem/is_analysis/tree/master/test2
-        - 周志强	软件(本)15-1	https://github.com/aGreySky/is_analysis/tree/master/test2
-        - 杨楠	软件(本)15-2	https://github.com/abecd/is_analysis/tree/master/test2
-        - 杜芸彦	软件(本)15-3	https://github.com/d123456yy/is_analysis/tree/master/test2
-        - 邱小霞	软件(本)15-3	https://github.com/q1314520xx/is_analysis/tree/master/test2
-        - 孙守利	软件(本)15-3	https://github.com/shoulisun/is_analysis/tree/master/test2
-        - 余行	软件(本)15-3	https://github.com/yuhang456/is_analysis/tree/master/test2
-        - 张文	软件(本)15-3	https://github.com/Anntly/is_analysis/tree/master/test2
-        - 陈惠翔	软件(本)15-4	https://github.com/JasonChenhx/is_analysis/tree/master/test2
-        - 蒋春林	软件(本)15-4	https://github.com/FateBerserker/is_analysis/tree/master/test2
-        - 梅恩	软件(本)15-4	https://github.com/228957643/is_analysis/tree/master/test2
-        - 吴靖	软件(本)15-4	https://github.com/ikowalski/is_analysis/tree/master/test2
-        - 张启恒	软件(本)15-4	https://github.com/zhangqiheng/is_analysis/tree/master/test2
+        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test2)
+        - [周志强	软件(本)15-1](https://github.com/aGreySky/is_analysis/tree/master/test2)
+        - [杨楠	软件(本)15-2](https://github.com/abecd/is_analysis/tree/master/test2)
+        - [杜芸彦	软件(本)15-3](https://github.com/d123456yy/is_analysis/tree/master/test2)
+        - [邱小霞	软件(本)15-3](https://github.com/q1314520xx/is_analysis/tree/master/test2)
+        - [孙守利	软件(本)15-3](https://github.com/shoulisun/is_analysis/tree/master/test2)
+        - [余行	软件(本)15-3](https://github.com/yuhang456/is_analysis/tree/master/test2)
+        - [张文	软件(本)15-3](https://github.com/Anntly/is_analysis/tree/master/test2)
+        - [陈惠翔	软件(本)15-4](https://github.com/JasonChenhx/is_analysis/tree/master/test2)
+        - [蒋春林	软件(本)15-4](https://github.com/FateBerserker/is_analysis/tree/master/test2)
+        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test2)
+        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test2)
+        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test2)
 - ### [实验3：图书管理系统领域对象建模](./test3.md)
 
 ## 抄袭说明
