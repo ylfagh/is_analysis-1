@@ -61,7 +61,7 @@
         3. 类图中的关联线条错误太多，关联线条的三要素：类别，方向和数字对应关系都应该设计正确。 
         4. 对象图中的数据要符合实事。比如，字符串要加单引号，数字不加引号，密码不要用明文。   
         5. 应该说明每个类由哪个用例产生，被哪些实例引用。
-    - 部分比较优秀(95分以上)的实验2如下：
+    - 部分比较优秀(95分以上)的实验3如下：
         - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test3)
         - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test3)
         - [王华港	软件(本)15-2](https://github.com/wanghuagang/is_analysis/tree/master/test3)
