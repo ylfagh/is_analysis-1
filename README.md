@@ -61,7 +61,14 @@
         3. 类图中的关联线条错误太多，关联线条的三要素：类别，方向和数字对应关系都应该设计正确。 
         4. 对象图中的数据要符合实事。比如，字符串要加单引号，数字不加引号，密码不要用明文。   
         5. 应该说明每个类由哪个用例产生，被哪些实例引用。
-              
+    - 部分比较优秀(95分以上)的实验2如下：
+        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test3)
+        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test3)
+        - [王华港	软件(本)15-2](https://github.com/wanghuagang/is_analysis/tree/master/test3)
+        - [邱小霞	软件(本)15-3](https://github.com/q1314520xx/is_analysis/tree/master/test3)
+        - [蒋春林	软件(本)15-4](https://github.com/FateBerserker/is_analysis/tree/master/test3)
+        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test3)
+        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test3)
 ## 抄袭说明
 - 有抄袭嫌疑的实验，老师批改的成绩都比较低。原作者有可能是抄袭的受害者，如果出现这种情况，请告知老师修改成绩。
 - 自己独立完成的实验，分数不会低。
