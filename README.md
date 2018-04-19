@@ -26,7 +26,7 @@
     - 实验1批改情况说明（大家都容易出现的问题有）：
         1. 没有按角色分组
         2. 没有文字说明
-    - 部分比较优秀(95分以上)的实验1如下：    
+    - 本实验部分比较优秀(95分以上)的同学如下：    
         - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test1)
         - [姚启迪	软件(本)15-1](https://github.com/Konoha-Y/is_analysis/tree/master/test1)
         - [曾玉龙	软件(本)15-2](https://github.com/Zengyulong/is_analysis/tree/master/test1)
@@ -40,7 +40,7 @@
         2. 滥用<< extend >>。extend只是用于特殊情况，异常情况，不能用于正常情况的用例。
     比如“书目维护”用例中的“增加”，“修改”，“删除”用例，
     不应该是<< extend >>关系，应该是<< include >>关系或者是<< use >>关系。
-    - 部分比较优秀(95分以上)的实验2如下：
+    - 本实验部分比较优秀(95分以上)的同学如下：
         - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test2)
         - [周志强	软件(本)15-1](https://github.com/aGreySky/is_analysis/tree/master/test2)
         - [杨楠	软件(本)15-2](https://github.com/abecd/is_analysis/tree/master/test2)
@@ -61,7 +61,7 @@
         3. 类图中的关联线条错误太多，关联线条的三要素：类别，方向和数字对应关系都应该设计正确。 
         4. 对象图中的数据要符合实事。比如，字符串要加单引号，数字不加引号，密码不要用明文。   
         5. 应该说明每个类由哪个用例产生，被哪些实例引用。
-    - 部分比较优秀(95分以上)的实验3如下：
+    - 本实验部分比较优秀(95分以上)的同学如下：
         - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test3)
         - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test3)
         - [王华港	软件(本)15-2](https://github.com/wanghuagang/is_analysis/tree/master/test3)
