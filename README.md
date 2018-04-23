@@ -67,8 +67,9 @@
         - [王华港	软件(本)15-2](https://github.com/wanghuagang/is_analysis/tree/master/test3)
         - [邱小霞	软件(本)15-3](https://github.com/q1314520xx/is_analysis/tree/master/test3)
         - [蒋春林	软件(本)15-4](https://github.com/FateBerserker/is_analysis/tree/master/test3)
-        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test3)
+        - [吴  靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test3)
         - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test3)
+- ### [实验4：图书管理系统顺序图绘制](./test4.md)     
 ## 抄袭说明
 - 有抄袭嫌疑的实验，老师批改的成绩都比较低。原作者有可能是抄袭的受害者，如果出现这种情况，请告知老师修改成绩。
 - 自己独立完成的实验，分数不会低。
