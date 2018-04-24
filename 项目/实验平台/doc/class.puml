@@ -7,8 +7,6 @@ class users {
     update_date
     password
     disable
-    result_sum
-    web_sum
 }
 class teachers{
     <b>teacher_id</b>
@@ -17,6 +15,8 @@ class teachers{
 class students{
     <b>student_id</b>
     class
+    result_sum（成绩汇总）
+    web_sum （网站正确与否汇总）
 }
 users <|- students
 users <|-- teachers
