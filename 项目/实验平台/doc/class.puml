@@ -21,7 +21,7 @@ class students{
 users <|- students
 users <|-- teachers
 class grades {
-    <b>student_id1</b>
+    <b>student_id</b>
     <b>test_id</b>
     result
     memo
