@@ -1,0 +1,40 @@
+@startuml
+title 基于GitHub的实验管理平台--类图
+class users {
+    <b>user_id</b>
+    name
+    github_username
+    update_date
+    password
+    disable
+    result_sum
+    web_sum
+}
+class teachers{
+    <b>teacher_id</b>
+    department
+}
+class students{
+    <b>student_id</b>
+    class
+}
+users <|- students
+users <|-- teachers
+class grades {
+    <b>student_id</b>
+    <b>test_id</b>
+    result
+    memo
+    update_date
+}
+
+class tests {
+    <b>test_id</b>
+    title
+}
+
+students "1" -- "n"  grades
+tests "1" -- "n"  grades
+
+
+@enduml

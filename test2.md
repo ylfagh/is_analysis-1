@@ -17,8 +17,8 @@
 
 <b>实验提交</b>
 
-- 实验提交到自己的gitHub的is_analysis/test2目录中，主要文件名是：README.md，再附上一些图片文件。
-- 你的gitHub中的is_analysis/test2目录中可能有以下文件：
+- 实验提交到自己的GitHub的is_analysis/test2目录中，主要文件名是：README.md，再附上一些图片文件。
+- 你的GitHub中的is_analysis/test2目录中可能有以下文件：
 
 ``` filelist
 README.md
