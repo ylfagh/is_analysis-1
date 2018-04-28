@@ -32,7 +32,7 @@
 1. 获取全部分类
 
 - 功能：用于获取全部分类
-- 请求地址： http://[YOUR_DOMAIN]/api/shop_cate
+- 请求地址： http://[YOUR_DOMAIN]/v1/api/shop_cate
 - 请求方法：POST
 - 请求参数：
 
@@ -68,7 +68,7 @@
 
 2. *******API
 - 功能：用于获取全部分类
-- 请求地址： http://[YOUR_DOMAIN]/api/shop_cate
+- 请求地址： http://[YOUR_DOMAIN]/v1/api/shop_cate
 - 请求方法：POST
 - 请求参数：
 
