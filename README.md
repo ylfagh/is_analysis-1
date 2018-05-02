@@ -70,7 +70,23 @@
         - [吴  靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test3)
         - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test3)
 - ### [实验4：图书管理系统顺序图绘制](./test4.md)
+    - 实验4批改情况说明（大家都容易出现的问题有）：
+        1. 顺序图中的消息一般不需要加序号。顺序图本身就是按时间顺序由上到下排列的。
+        2. 实验2的类图中的类在顺序图中没有足够的体现，或者名称不匹配。
     - 注意，用例图，类图，顺序图一定要相互联系，互相参照。
+    - 本实验部分比较优秀(95分以上)的同学如下：
+        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test4)
+        - [秦著	软件(本)15-1](https://github.com/614756773/is_analysis/tree/master/test4)
+        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test4)
+        - [周志强	软件(本)15-1](https://github.com/aGreySky/is_analysis/tree/master/test4)
+        - [黄伟	软件(本)15-2](https://github.com/hwaning/is_analysis/tree/master/test4)
+        - [周鑫	软件(本)15-2](https://github.com/ZhouXin01/is_analysis/tree/master/test4)
+        - [杜芸彦	软件(本)15-3](https://github.com/d123456yy/is_analysis/tree/master/test4)
+        - [邱小霞	软件(本)15-3](https://github.com/q1314520xx/is_analysis/tree/master/test4)
+        - [孙守利	软件(本)15-3](https://github.com/shoulisun/is_analysis/tree/master/test4)
+        - [吴江涛	软件(本)15-3](https://github.com/wjtwjt96/is_analysis/tree/master/test4)
+        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test4)
+        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test4)
       老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的用例图，类图，顺序图如下：
     - 用例图(只有一个)：
     
