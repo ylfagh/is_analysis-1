@@ -87,18 +87,19 @@
         - [吴江涛	软件(本)15-3](https://github.com/wjtwjt96/is_analysis/tree/master/test4)
         - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test4)
         - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test4)
-      老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的用例图，类图，顺序图如下：
-    - 用例图(只有一个)：
+      
+    - 老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的用例图，类图，顺序图如下：
+        - 用例图(只有一个)：
     
         ![UseCase1](./项目/实验平台/doc/UseCase.png) 
         
         说明：学生列表用例是主页面，不需要登录也可访问。
         
-    - 类图(只有一个)：
+        - 类图(只有一个)：
     
         -![class1](./项目/实验平台/doc/class.png)          
               
-    - 顺序图(每个用例一个，登录，拿出等基本用例省略了)：
+        - 顺序图(每个用例一个，登录，拿出等基本用例省略了)：
     
         -![sequence1](./项目/实验平台/doc/sequence学生列表.png) 
         
