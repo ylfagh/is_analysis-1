@@ -154,7 +154,7 @@
       |TEST_ID|NUMBER(6,0)|联合主键2，外键|否| | | 实验编号，TESTS表的外键|
       |RESULT|NUMBER|主键|是| | 取值0-100| 分数，这个值为空表示没有批改|
       |MEMO|VARCHAR2(400 BYTE)| |是| | | 老师对实验的评语|
-      |UPDATE_DATE|DATE| |是| | |老师批发实验的日期|
+      |UPDATE_DATE|DATE| |是| | |老师批改实验的日期|
       
       - 1.5. TESTS表（实验项目表）
       
