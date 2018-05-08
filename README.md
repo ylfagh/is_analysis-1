@@ -164,9 +164,11 @@
       |TITLE|VARCHAR2(100 BYTE)| |否| | | 实验名称|
       
     - 老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的API接口如下:
-        - getStudents接口
     
-    请求地址： http://192.168.206.129:1522/v1/api/getStudents
+    - getStudents接口
+    
+    请求地址： 
+        http://202.115.82.8:1522/v1/api/getStudents
     
     请求方式 ：
         GET    
