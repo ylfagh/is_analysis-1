@@ -215,13 +215,15 @@
         
         - 功能：
             修改学生的GitHub用户名。   
+            
             必须登录。
             该接口服务于：http://202.115.82.8:1522
             
         - API请求地址： 
             http://202.115.82.8:1522//v1/api/update_github_user/学号/GitHub用户名
-            样例：
-            http://202.115.82.8:1522//v1/api/update_github_user/201510414101/abc
+            
+            样例：http://202.115.82.8:1522//v1/api/update_github_user/201510414101/abc
+            
         - 请求方式 ：
             GET，POST
         
