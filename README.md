@@ -211,7 +211,13 @@
           |info|返回结果说明信息|
           |total|返回学生人数|
           |data|所有学生的数组|
-          |RESULT_SUM|成绩汇总|
+          |WEB_SUM|网址是否正确的汇总|
+          |RESULT_SUM|成绩的汇总|
+          |GITHUB_USERNAME|GITHUB 用户名|
+          |STUDENT_ID|学号|
+          |CLASS|班级|
+          |NAME|真实姓名|
+          |UPDATE_DATE|GitHUB用户名修改日期|
       
     - update_github_user接口
         
@@ -228,7 +234,9 @@
             
         - 请求方式 ：
             GET，POST
-        
+            
+            POST接口测试网址：http://coolaf.com/
+            
         - 请求参数说明:      
                     
             |参数名称|必填|说明|
