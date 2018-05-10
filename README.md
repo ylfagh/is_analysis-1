@@ -115,14 +115,29 @@
           1. 数据库表的字段与类图的属性不符。
           2. 界面控件与表的字段属性不符。
           3. 如果表的字段是外键，一定要写明参照表。
-          4. 不要滥用“可以为空”，一定要实事求是。特别是图书归还日期，必须允许为空，为空表示没有归还，不为空表示实际归还日期。
-          5. 表的类型，使用int(100)太大了，正确的用法是int。
+          4. 不要滥用“可以为空”，一定要实事求是。特别是图书的借书日期必须不能为空，但是归还日期必须允许为空，为空表示没有归还，不为空表示实际归还日期。
+          5. 表的类型，使用int(100)太大了，正确的用法是int。datetime(50)也不正确，正确的用法是：datetime。
           6. 图书馆中的每一种图书（ISBN号相同的图书）都可能有很多本，每一本都有不同的流水号（图书馆的自编号），
           读者借书应该是针对<b>流水号</b>借书，而不是ISBN号。如果张三和李四都借了ISBN号相同的书，张三弄丢了他借的图书，
           而这时张三正好拿到了李四借的书，他想用李四的书冒充自己借的书去还书，结果仍然是帮李四还了，冒充还书不会成功！
-          7. API接口参数“method 固定为POST”的设计不合理。method不应该是参数名称。
-          8. 增加图书的POST接口，很多同学输入的图书参数只有一个，是book对象（比如JavaBean），这样不正确，原因是为了解耦，接口必须是独立的，与任何语言无关。正确的写法是输入的参数是图书的所有主要属性，但不含图书的BookID，BookID应该是在添加图书成功之后，由系统自动生成，并通过接口返回，在返回的参数中出现BookID!
+          7. 一个表中只能有一个主键。可以由多个字段组成联合主键，但主键只能有一个。
+          8. API接口参数“method 固定为POST”的设计不合理。method不应该是参数名称。
+          9. 增加图书的POST接口，很多同学输入的图书参数只有一个，是book对象（比如JavaBean），这样不正确，原因是为了解耦，接口必须是独立的，与任何语言无关。正确的写法是输入的参数是图书的所有主要属性，但不含图书的BookID，BookID应该是在添加图书成功之后，由系统自动生成，并通过接口返回，在返回的参数中出现BookID!
           
+    - 本实验部分比较优秀(95分至98分)的同学如下：
+        - [郭钊彬	软件(本)15-1](https://github.com/HaveyouBinbin/is_analysis/tree/master/test5)
+        - [朱鹃	软件(本)15-2](https://github.com/shiweizj/is_analysis/tree/master/test5)
+        - [杜芸彦	软件(本)15-3](https://github.com/d123456yy/is_analysis/tree/master/test5)
+        - [孙守利	软件(本)15-3](https://github.com/shoulisun/is_analysis/tree/master/test5)
+        - [张文	软件(本)15-3](https://github.com/Anntly/is_analysis/tree/master/test5)       
+        - [梅恩	软件(本)15-4](https://github.com/228957643/is_analysis/tree/master/test5)
+        - [吴靖	软件(本)15-4](https://github.com/ikowalski/is_analysis/tree/master/test5)
+        
+    - 本实验部分特别优秀(99分)的同学如下：
+        - [杨钉权	软件(本)15-1](https://github.com/sinmem/is_analysis/tree/master/test5)
+        - [蒋春林	软件(本)15-4](https://github.com/FateBerserker/is_analysis/tree/master/test5)
+        - [张启恒	软件(本)15-4](https://github.com/zhangqiheng/is_analysis/tree/master/test5)    
+        
     - 老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的表结构如下：
       
       1.  USERS表（用户表）
