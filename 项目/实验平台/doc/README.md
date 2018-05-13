@@ -1,6 +1,9 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
+[toc]
+
+
 # 基于GitHub的实验管理平台的分析与设计
 
 <center>
@@ -14,6 +17,8 @@
 
 姓名：***
 </center>
+
+[toc]
 
 [toc]
 
