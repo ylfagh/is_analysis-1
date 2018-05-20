@@ -1,17 +1,10 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-<!--begin.bg-blue-->
-
-<body>
-<script>
-fu(){
-alert('aaa');
-}
-</script>
-</body>
-
-<!--end.bg-blue-->
+<!-- Custom JavaScript files set in YAML front matter -->
+{% for js in page.customjs %}
+<script async type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
 
 
 # 基于GitHub的实验管理平台的分析与设计
