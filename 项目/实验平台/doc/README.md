@@ -10,10 +10,25 @@
 |12345678|软件(本)15-4|赵卫东|![flow1](../../../myself.jpg)|
 
 ## 1. 概述
-    ***
+    - 基于GitHub的实验管理平台的作用是在线管理实验成绩的Web应用系统。学生和老师的实验内容均存放在GitHUB
+    页面上。
+    - 学生的功能主要有：一是设置自己的GitHub用户名，二是查询自己的实验成绩。学生的GitHub用户名是公开的，但成绩不公开。
+    - 老师的功能主要有：一是修改学生的成绩，二是查看每个学生的成绩。
+    - 实验成绩按数字分数计算，每项实验的满分为100分，最低为0分。
+    - 系统自动计算每个学生的所有实验的平均分。
     
 ## 2. 系统总体结构
-    ***
+        <script type="text/javascript">  
+            var canvas=document.getElementById("canvas");  
+            var ctx=canvas.getContext("2d");  
+            //绘制  
+            ctx.fillStyle="#ff00000";  
+            ctx.strokeStyle="#0000ff";  
+            ctx.lineWidth=3;  
+            ctx.rect(20,20,240,240);  
+            ctx.fill();//填充  
+            ctx.stroke();//绘制边框  
+        </script>  
     
 ## 3. 用例图设计 [源码](./src/UseCase.puml)
 ![](./UseCase.png)
