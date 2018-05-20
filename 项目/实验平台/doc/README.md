@@ -1,7 +1,8 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-<!-- Custom JavaScript files set in YAML front matter 
+<!-- Custom JavaScript files set in YAML front matter -->
+
 <script type="text/javascript">  
     var canvas=document.getElementById("canvas");  
     var ctx=canvas.getContext("2d");  
@@ -14,7 +15,6 @@
     ctx.stroke();//绘制边框  
 </script>  
 
--->
 
 
 
