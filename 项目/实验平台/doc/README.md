@@ -1,10 +1,21 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-<!-- Custom JavaScript files set in YAML front matter -->
-{% for js in page.customjs %}
-<script async type="text/javascript" src="{{ js }}"></script>
-{% endfor %}
+<!-- Custom JavaScript files set in YAML front matter 
+<script type="text/javascript">  
+    var canvas=document.getElementById("canvas");  
+    var ctx=canvas.getContext("2d");  
+    //绘制  
+    ctx.fillStyle="#ff00000";  
+    ctx.strokeStyle="#0000ff";  
+    ctx.lineWidth=3;  
+    ctx.rect(20,20,240,240);  
+    ctx.fill();//填充  
+    ctx.stroke();//绘制边框  
+</script>  
+
+-->
+
 
 
 # 基于GitHub的实验管理平台的分析与设计
@@ -25,17 +36,7 @@
 - 系统自动计算每个学生的所有实验的平均分。
     
 ## 2. 系统总体结构
-<script type="text/javascript">  
-    var canvas=document.getElementById("canvas");  
-    var ctx=canvas.getContext("2d");  
-    //绘制  
-    ctx.fillStyle="#ff00000";  
-    ctx.strokeStyle="#0000ff";  
-    ctx.lineWidth=3;  
-    ctx.rect(20,20,240,240);  
-    ctx.fill();//填充  
-    ctx.stroke();//绘制边框  
-</script>  
+
     
 ## 3. 用例图设计 [源码](./src/UseCase.puml)
 ![](./UseCase.png)
