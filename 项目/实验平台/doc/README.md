@@ -1,23 +1,6 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-<!-- Custom JavaScript files set in YAML front matter -->
-
-<script type="text/javascript">  
-    var canvas=document.getElementById("canvas");  
-    var ctx=canvas.getContext("2d");  
-    //绘制  
-    ctx.fillStyle="#ff00000";  
-    ctx.strokeStyle="#0000ff";  
-    ctx.lineWidth=3;  
-    ctx.rect(20,20,240,240);  
-    ctx.fill();//填充  
-    ctx.stroke();//绘制边框  
-</script>  
-
-
-
-
 # 基于GitHub的实验管理平台的分析与设计
 
 ### 成都大学信息科学与工程学院
