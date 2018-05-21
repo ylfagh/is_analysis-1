@@ -69,4 +69,4 @@ pic1.png
 - 获得北京天气预报的API: https://www.sojson.com/open/api/weather/json.shtml?city=北京
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
-- 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/项目/实验平台/doc
+- 老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
