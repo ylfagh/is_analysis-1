@@ -97,23 +97,23 @@
     - 老师编写的[基于GitHub的实验管理平台](http://202.115.82.8:1522)的用例图，类图，顺序图如下：
         - 用例图(只有一个)：
     
-        ![UseCase1](./项目/实验平台/doc/UseCase.png) 
+        ![UseCase1](./test6/UseCase.png) 
         
         说明：学生列表用例是主页面，不需要登录也可访问。
         
         - 类图(只有一个)：
     
-        -![class1](./项目/实验平台/doc/class.png)          
+        -![class1](./test6/class.png)          
               
         - 顺序图(每个用例一个，登录，登出等基本用例省略了)：
     
-        -![sequence1](./项目/实验平台/doc/sequence学生列表.png) 
+        -![sequence1](./test6/sequence学生列表.png) 
         
         说明：老师和学生在学生列表用例中看到的数据不完全相同，老师可以看到成绩。
         
-       -![sequence2](./项目/实验平台/doc/sequence查看成绩.png) 
+       -![sequence2](./test6/sequence查看成绩.png) 
         
-        -![sequence3](./项目/实验平台/doc/sequence评定成绩.png)
+        -![sequence3](./test6/sequence评定成绩.png)
         
 - ### [实验5：图书管理系统数据库设计与界面设计](./test5.md)
     - 实验5批改情况说明（大家都容易出现的问题有）：
