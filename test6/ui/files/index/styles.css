@@ -1324,7 +1324,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u116_img {
@@ -1346,7 +1345,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u118_img {
@@ -1368,7 +1366,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u120_img {
@@ -1384,13 +1381,17 @@
   top:60px;
   width:91px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-decoration:underline;
+  color:#0066CC;
 }
 #u121 {
   position:absolute;
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u122_img {
@@ -1412,7 +1413,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u124_img {
@@ -1434,7 +1434,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u126_img {
@@ -1456,7 +1455,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u128_img {
@@ -1478,7 +1476,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u130_img {
@@ -1500,7 +1497,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u132_img {
@@ -1516,13 +1512,14 @@
   top:60px;
   width:63px;
   height:30px;
+  text-decoration:underline;
+  color:#0066CC;
 }
 #u133 {
   position:absolute;
   left:2px;
   top:7px;
   width:59px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u134_img {
@@ -1544,7 +1541,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u136_img {
@@ -1566,7 +1562,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u138_img {
@@ -1588,7 +1583,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u140_img {
@@ -1604,13 +1598,17 @@
   top:90px;
   width:91px;
   height:30px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-decoration:underline;
+  color:#0066CC;
 }
 #u141 {
   position:absolute;
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u142_img {
@@ -1632,7 +1630,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u144_img {
@@ -1654,7 +1651,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u146_img {
@@ -1676,7 +1672,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u148_img {
@@ -1698,7 +1693,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u150_img {
@@ -1720,7 +1714,6 @@
   left:2px;
   top:7px;
   width:87px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u152_img {
@@ -1736,13 +1729,14 @@
   top:90px;
   width:63px;
   height:30px;
+  text-decoration:underline;
+  color:#0066CC;
 }
 #u153 {
   position:absolute;
   left:2px;
   top:7px;
   width:59px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u154_img {
