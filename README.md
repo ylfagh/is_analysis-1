@@ -25,6 +25,7 @@
 - 单独安装: git 和 graphviz
 
 ## [期末考核](./test6.md)
+老师做的<b>基于GitHub的实验管理平台</b>参考：https://github.com/zwdbox/is_analysis/tree/master/test6
    
 ## 实验
 
