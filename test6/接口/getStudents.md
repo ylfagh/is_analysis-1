@@ -1,8 +1,8 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-# 接口：getStudents  [返回](./README.md)
-使用者： [用例_学生列表](./用例_学生列表.md)
+# 接口：getStudents  [返回](../README.md)
+用例： [学生列表](../学生列表.md)
 
 - 权限：
     学生/访客：不能看到RESULT_SUM，WEB_SUM

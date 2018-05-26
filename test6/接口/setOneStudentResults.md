@@ -1,8 +1,8 @@
 ﻿<!-- markdownlint-disable MD033-->
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
-# 接口：setOneStudentResults  [返回](./README.md)
-使用者： [用例_评定成绩](./用例_评定成绩.md)
+# 接口：setOneStudentResults  [返回](../README.md)
+用例： [评定成绩](../用例/评定成绩.md)
 
 - 功能：
     设置一个学生的部分实验成绩和评语。
