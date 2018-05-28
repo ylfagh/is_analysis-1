@@ -253,4 +253,4 @@
 - 绘制方法参考[PlantUML标准](http://plantuml.com)
 - Markdown格式参考：https://www.jianshu.com/p/b03a8d7b1719
 - 老师的教学资源：https://github.com/zwdbox/is_analysis
-- Git 分支 https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF
+- Git 分支： https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF
