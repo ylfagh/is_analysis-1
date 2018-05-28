@@ -2,7 +2,7 @@
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
 # 接口：getUserInfo  [返回](../README.md)
-<table><tr><td bgcolor=#D1EEEE>用例： [查看用户信息](../用例/查看用户信息.md),[修改用户信息](../用例/修改用户信息.md)</td></tr></table>
+用例： [查看用户信息](../用例/查看用户信息.md),[修改用户信息](../用例/修改用户信息.md)
 
 - 功能：
     查看用户的所有信息。

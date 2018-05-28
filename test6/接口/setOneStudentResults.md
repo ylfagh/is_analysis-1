@@ -2,7 +2,7 @@
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
 # 接口：setOneStudentResults  [返回](../README.md)
-<table><tr><td bgcolor=#D1EEEE>用例： [评定成绩](../用例/评定成绩.md)</td></tr></table>
+用例： [评定成绩](../用例/评定成绩.md)
 
 - 功能：
     设置一个学生的部分实验成绩和评语。
