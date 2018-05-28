@@ -3025,3 +3025,30 @@
   width:364px;
   word-wrap:break-word;
 }
+#u253_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  height:1px;
+}
+#u253 {
+  position:absolute;
+  left:56px;
+  top:344px;
+  width:239px;
+  height:1px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  text-decoration:underline;
+  color:#009900;
+}
+#u254 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:239px;
+  word-wrap:break-word;
+}
