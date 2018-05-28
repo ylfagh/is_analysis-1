@@ -2,7 +2,7 @@
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
 # 接口：logout  [返回](../README.md)
-用例： [登出](../用例/登出.md)
+<table><tr><td bgcolor=#D1EEEE>用例： [登出](../用例/登出.md)</td></tr></table>
 
 - 功能：
     已经登录的用户登出平台。

@@ -2,7 +2,8 @@
 <!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
 
 # 接口：login  [返回](../README.md)
-用例： [登录](../用例/登录.md)
+
+<table><tr><td bgcolor=#D1EEEE>用例： [登录](../用例/登录.md)</td></tr></table>
 
 - 功能：
     登录到平台。
