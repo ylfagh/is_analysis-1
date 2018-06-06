@@ -29,6 +29,7 @@
             "status": true,
             "info": null,    
             "student_id": "201510315203"
+            
         }
  
 - 返回参数说明：    
@@ -38,4 +39,5 @@
   |status|bool类型，true表示正确的返回，false表示有错误|
   |info|返回结果说明信息|
   |student_id|学号|
-
+ 
+ 
