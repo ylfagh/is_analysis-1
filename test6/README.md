@@ -1,6 +1,3 @@
-﻿<!-- markdownlint-disable MD033-->
-<!-- 禁止MD033类型的警告 https://www.npmjs.com/package/markdownlint -->
-
 # 基于GitHub的实验管理平台的分析与设计
 
 ### 成都大学信息科学与工程学院
